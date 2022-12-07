@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="./api_key.json"
